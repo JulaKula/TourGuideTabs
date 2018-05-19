@@ -24,12 +24,6 @@
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         tools:text="Hello World!" />
 
-    <!--android:background="#0000000"-->
-    <!--android:textColor="@color/white"-->
-
-    <!--android:background="@color/textBackground"-->
-    <!--android:textColor="@color/white"-->
-
     <TextView
         android:id="@+id/description"
         android:layout_width="match_parent"

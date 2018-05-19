@@ -20,7 +20,7 @@ public class NatureFragment extends Fragment {
         // Inflate the layout for this fragment
         View rootView = inflater.inflate(R.layout.list_view, container, false);
 
-        // Create an ArrayList and add newly created com.example.android.tourguidetabs.Location objects
+        // Create an ArrayList and add newly created Location objects
         ArrayList<Location> locations = new ArrayList<>();
         locations.add(new Location(R.drawable.nat1, R.string.nature, R.string.description));
         locations.add(new Location(R.drawable.nat2, R.string.nature, R.string.description));
